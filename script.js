@@ -356,7 +356,7 @@
         /* Shatter (Banner) Styling */
         .shatter {
             position: fixed;
-            top: -60px;
+            top: -70px;
             left: 50%;
             transform: translateX(-50%);
             width: 300px;
@@ -473,7 +473,7 @@
             if (chatContainer.classList.contains('open')) {
                 chatContainer.classList.remove('open');
                 chatContainer.classList.add('close');
-                shatter.style.top = '-60px';
+                shatter.style.top = '-70px';
             } else {
                 chatContainer.classList.remove('close');
                 chatContainer.classList.add('open');
