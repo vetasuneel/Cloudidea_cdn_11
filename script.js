@@ -44,7 +44,7 @@
         }
         .chat-icon-container .speech-bubble .close-speech {
             position: absolute;
-            bottom: 38px;
+            bottom: 45px;
             right: 5px;
             font-size: 23px;
             cursor: pointer;
