@@ -385,7 +385,7 @@
         <div id="shatter" class="shatter">
             <i class="fas fa-phone-alt fa-flip-horizontal"></i>
             <div style="margin-right: 15px;">
-                <strong>+1-123-456-7890</strong><br>
+                <strong>+18087077230</strong><br>
                 Feel free to talk with our AI assistant.
             </div>
         </div>
