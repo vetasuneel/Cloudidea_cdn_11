@@ -51,7 +51,7 @@
 
             .chat-icon-container .speech-bubble .close-speech {
                 position: absolute;
-                bottom: 38px;
+                bottom: 45px;
                 right: 5px;
                 font-size: 23px;
                 cursor: pointer;
@@ -429,7 +429,7 @@
             /* Shatter (Banner) Styling */
 .shatter {
     position: fixed;
-    top: -60px;  /* Initially hidden */
+    top: -70px;  /* Initially hidden */
     left: 50%;
     transform: translateX(-50%);
     width: 300px;
@@ -562,7 +562,7 @@ powered by <a href="https://cloudidea.io/" style="color: #368CFE;">cloudidea</a>
                     if (chatContainer.classList.contains('open')) {
                         chatContainer.classList.remove('open');
                         chatContainer.classList.add('close');
-                        shatter.style.top = '-60px';  // Hide shatter when chat is closed
+                        shatter.style.top = '-70px';  // Hide shatter when chat is closed
                     } else {
                         chatContainer.classList.remove('close');
                         chatContainer.classList.add('open');
@@ -778,7 +778,7 @@ function sendMessage(message) {
                 closeBtn.addEventListener('click', function () {
                     chatContainer.classList.remove('open');
                     chatContainer.classList.add('close');
-                    shatter.style.top = '-60px';  // Hide the shatter when the chat is closed
+                    shatter.style.top = '-70px';  // Hide the shatter when the chat is closed
                 });
 
                 
