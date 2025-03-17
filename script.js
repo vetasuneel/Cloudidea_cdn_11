@@ -572,7 +572,7 @@
             userInput.value = '';
             appendMessage('user', message);
             showTypingIndicator();
-            fetch('https://chat.vetaai.com/chat', {
+            fetch('https://chat.cloudidea.io/chat', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ name: userName, phone: userPhone, message: message })
