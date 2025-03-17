@@ -420,6 +420,9 @@
                     <div class="predefined-btn" data-message="Migrate | Modernize">
                         <i class="fas fa-tags"></i> Migrate | Modernize
                     </div>
+                    <div class="predefined-btn" data-message="Demo Now">
+    <i class="fas fa-laptop-code"></i> Demo Now
+</div
                 </div>
             </div>
             <div class="chat-input">
