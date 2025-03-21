@@ -461,7 +461,7 @@
     <i class="fas fa-phone-alt fa-flip-horizontal"></i>
 
     <div style="margin-right: 15px;">
-        <strong>+16509106706</strong><br>
+        <strong>+1 650-910-6706</strong><br>
         Feel free to talk with our AI assistant.
     </div>
 </div>
