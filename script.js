@@ -479,7 +479,7 @@
     
             <div class="chat-container" id="chat-container">
                 <div class="chat-header">
-                    <center><img src="https://cloudidea.vetaai.com/wp-content/uploads/2025/01/Cloud-Idea-1.webp" alt="Header Image"></center><br>
+                    <center><img src="https://cloudidea.io/wp-content/uploads/2025/01/Cloud-Idea-1.webp" alt="Header Image"></center><br>
                     <span class="close-btn" id="close-btn">&times;</span>
                 </div>
                 <div id="chat-box" class="chat-box">
